@@ -1,4 +1,4 @@
-# Hi there, I'm Tamjid 👋
+# Hi there👋
 
 ![Header Image](https://github.com/tamjidzihan/tamjidzihan/blob/main/github-header-image.png)
 
