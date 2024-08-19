@@ -9,9 +9,9 @@ When I'm not coding, I love to contribute to open-source projects, learn new ski
 
 ### 🌐 Connect with me:
 
-[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat&logo=google-chrome)](https://your-website-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@tamjid_tweets-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat&logo=google-chrome)](https://tizdev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-tamzid-islam-03550aa9/)
+[![Twitter](https://img.shields.io/badge/Twitter-@tamjid_tweets-1DA1F2?style=flat&logo=twitter)](https://x.com/tamjid_zihan)
 
 ### 💻 Languages & Tools:
 
