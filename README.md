@@ -42,7 +42,8 @@ When I'm not coding, I love to contribute to open-source projects, learn new ski
       <li>Created a featured post section and a categorized blog list for better content organization.</li>
       <li>Implemented reading time estimation for each blog post.</li>
    </ul> 
-    [![Demo](https://img.shields.io/badge/Demo-Link-green?style=flat)](https://bytebybyteblog.vercel.app/) [![Repository](https://img.shields.io/badge/Repository-GitHub-blue?style=flat&logo=github)](https://github.com/tamjidzihan/byte_by_byte)
+   
+    [![Demo](https://img.shields.io/badge/Demo-Link-green?style=flat)](https://bytebybyteblog.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-blue?style=flat&logo=github)](https://github.com/tamjidzihan/byte_by_byte)
 
 2. **Project Name 2**  
    ![Project 2 Badge](https://img.shields.io/badge/-Django-green?style=flat&logo=django) ![Project 2 Badge](https://img.shields.io/badge/-TailwindCSS-teal?style=flat&logo=tailwind-css)  
