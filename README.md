@@ -34,14 +34,15 @@ When I'm not coding, I love to contribute to open-source projects, learn new ski
 ### 🌟 Featured Projects:
 
 1. **Byte-by-Byte:**  
-   ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)  
-   #### Developed a modern blog platform with a clean and responsive UI.
-   #### Implemented a dynamic theme switcher with localStorage persistence.
-   #### Used Markdown for blog content storage, enabling an efficient file-based CMS.
-   #### Created a featured post section and a categorized blog list for better content organization.
-   #### Implemented reading time estimation for each blog post.
-
-   [![Demo](https://img.shields.io/badge/Demo-Link-green?style=flat)](https://bytebybyteblog.vercel.app/) [![Repository](https://img.shields.io/badge/Repository-GitHub-blue?style=flat&logo=github)](https://github.com/tamjidzihan/byte_by_byte)
+   ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript) 
+   <ul>
+      <li>Developed a modern blog platform with a clean and responsive UI.</li>
+      <li>Implemented a dynamic theme switcher with localStorage persistence.</li>
+      <li>Used Markdown for blog content storage, enabling an efficient file-based CMS.</li>
+      <li>Created a featured post section and a categorized blog list for better content organization.</li>
+      <li>Implemented reading time estimation for each blog post.</li>
+   </ul> 
+    [![Demo](https://img.shields.io/badge/Demo-Link-green?style=flat)](https://bytebybyteblog.vercel.app/) [![Repository](https://img.shields.io/badge/Repository-GitHub-blue?style=flat&logo=github)](https://github.com/tamjidzihan/byte_by_byte)
 
 2. **Project Name 2**  
    ![Project 2 Badge](https://img.shields.io/badge/-Django-green?style=flat&logo=django) ![Project 2 Badge](https://img.shields.io/badge/-TailwindCSS-teal?style=flat&logo=tailwind-css)  
